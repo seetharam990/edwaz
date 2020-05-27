@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+master branch
+================
 ram is working
 ram is good
 ram is in hyderabad
+=======
+Seetha is a good boy
+>>>>>>> ram
