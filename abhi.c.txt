@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+this is master code
+=====================
 fsadkfjkdsaj
 jfkdls;ajfkdasj
 ajfdsajkf
+=======
+ksdajfkas
+jkl;asfj;da
+>>>>>>> master
